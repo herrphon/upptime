@@ -1,21 +1,33 @@
-# Change these first
-owner: herrphon # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+
+owner: herrphon
+repo: upptime
+
 
 sites:
+  - name: Auth-Bridge
+    url: https://auth-bridge.advantest.com
+  - name: Auth-Bridge - Test 1
+    url: https://auth-bridge-test-1.advantest.com
   - name: Software Center
     url: https://softwarecenter.advantest.com
+  - name: Software Center - Test 1
+    url: https://softwarecenter-test-1.advantest.com
   - name: Wetrack
     url: https://wetrack.advantest.com
   - name: Weshare
     url: https://weshare.advantest.com
+  - name: Scortum
+    url: https://scortum.com
+  - name: Google
+    url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
+    
 
 status-website:
   theme: ocean
 
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
   cname: upptime.phon.name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
