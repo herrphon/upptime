@@ -94,19 +94,19 @@
     "url": "https://weshare.advantest.com",
     "icon": "https://favicons.githubusercontent.com/weshare.advantest.com",
     "slug": "weshare",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1784,
-    "timeDay": 1493,
-    "timeWeek": 1613,
-    "timeMonth": 1784,
-    "timeYear": 1784,
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "81.98%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 1775,
+    "timeDay": 1517,
+    "timeWeek": 1609,
+    "timeMonth": 1775,
+    "timeYear": 1775,
     "dailyMinutesDown": {
-      "2021-10-22": 0
+      "2021-10-22": 259
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-22": 398,
+      "2021-10-22": 658,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 163
