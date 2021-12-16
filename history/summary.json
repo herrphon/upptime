@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/auth-bridge.advantest.com",
     "slug": "auth-bridge",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.88%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.88%",
     "time": 679,
     "timeDay": 604,
     "timeWeek": 709,
     "timeMonth": 692,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2021-12-16": 50
+      "2021-12-16": 103
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/auth-bridge-test-1.advantest.com",
     "slug": "auth-bridge-test-1",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.88%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.88%",
     "time": 666,
     "timeDay": 615,
     "timeWeek": 689,
     "timeMonth": 673,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2021-12-16": 50
+      "2021-12-16": 103
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/softwarecenter.advantest.com",
     "slug": "software-center",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.88%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.88%",
     "time": 650,
     "timeDay": 608,
     "timeWeek": 676,
     "timeMonth": 663,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2021-12-16": 50
+      "2021-12-16": 103
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/softwarecenter-test-1.advantest.com",
     "slug": "software-center-test-1",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.88%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.88%",
     "time": 647,
     "timeDay": 647,
     "timeWeek": 687,
     "timeMonth": 661,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2021-12-16": 50
+      "2021-12-16": 103
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://wetrack.advantest.com",
     "icon": "https://favicons.githubusercontent.com/wetrack.advantest.com",
     "slug": "wetrack",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.88%",
-    "time": 956,
-    "timeDay": 799,
-    "timeWeek": 1092,
-    "timeMonth": 991,
-    "timeYear": 956,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.83%",
+    "time": 975,
+    "timeDay": 1635,
+    "timeWeek": 1230,
+    "timeMonth": 1036,
+    "timeYear": 975,
     "dailyMinutesDown": {
-      "2021-12-16": 50,
+      "2021-12-16": 102,
       "2021-12-14": 69
     }
   },
@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-16": 759,
+      "2021-12-16": 812,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
