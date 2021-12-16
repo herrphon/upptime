@@ -4,9 +4,9 @@
     "url": "https://auth-bridge.advantest.com",
     "icon": "https://favicons.githubusercontent.com/auth-bridge.advantest.com",
     "slug": "auth-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 709,
     "timeMonth": 692,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "Auth-Bridge - Test 1",
     "url": "https://auth-bridge-test-1.advantest.com",
     "icon": "https://favicons.githubusercontent.com/auth-bridge-test-1.advantest.com",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 689,
     "timeMonth": 673,
     "timeYear": 666,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "Software Center",
     "url": "https://softwarecenter.advantest.com",
     "icon": "https://favicons.githubusercontent.com/softwarecenter.advantest.com",
     "slug": "software-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 676,
     "timeMonth": 663,
     "timeYear": 650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "Software Center - Test 1",
     "url": "https://softwarecenter-test-1.advantest.com",
     "icon": "https://favicons.githubusercontent.com/softwarecenter-test-1.advantest.com",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 687,
     "timeMonth": 661,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "Wetrack",
     "url": "https://wetrack.advantest.com",
     "icon": "https://favicons.githubusercontent.com/wetrack.advantest.com",
     "slug": "wetrack",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
@@ -88,6 +96,7 @@
     "timeMonth": 991,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2021-12-16": 0,
       "2021-12-14": 69
     }
   },
@@ -96,7 +105,7 @@
     "url": "https://weshare.advantest.com",
     "icon": "https://favicons.githubusercontent.com/weshare.advantest.com",
     "slug": "weshare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -108,6 +117,7 @@
     "timeMonth": 1620,
     "timeYear": 1672,
     "dailyMinutesDown": {
+      "2021-12-16": 0,
       "2021-11-20": 301,
       "2021-10-22": 259
     }
@@ -129,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-16": 72,
+      "2021-12-16": 709,
       "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
