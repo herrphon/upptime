@@ -105,7 +105,7 @@
     "url": "https://weshare.advantest.com",
     "icon": "https://favicons.githubusercontent.com/weshare.advantest.com",
     "slug": "weshare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
@@ -117,6 +117,7 @@
     "timeMonth": 1581,
     "timeYear": 1662,
     "dailyMinutesDown": {
+      "2021-12-18": 0,
       "2021-12-16": 74,
       "2021-11-20": 301,
       "2021-10-22": 259
@@ -139,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-18": 77,
+      "2021-12-18": 190,
       "2021-12-17": 1440,
       "2021-12-16": 1440,
       "2021-12-15": 1440,
