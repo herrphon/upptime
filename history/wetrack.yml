@@ -1,7 +1,7 @@
-url: https://wetrack.advantest.com
+url: $WETRACK
 status: up
 code: 200
-responseTime: 516
-lastUpdated: 2022-02-10T23:16:55.086Z
+responseTime: 509
+lastUpdated: 2022-02-11T12:12:51.235Z
 startTime: Fri Oct 08 2021 19:07:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
