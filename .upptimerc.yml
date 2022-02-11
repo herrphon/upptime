@@ -5,17 +5,17 @@ repo: upptime
 
 sites:
   - name: Auth-Bridge
-    url: https://auth-bridge.advantest.com
+    url: $AUTH_BRIDGE
   - name: Auth-Bridge - Test 1
-    url: https://auth-bridge-test-1.advantest.com
+    url:  $AUTH_BRIDGE_TEST_1
   - name: Software Center
-    url: https://softwarecenter.advantest.com
+    url: $SOFTWARECENTER
   - name: Software Center - Test 1
-    url: https://softwarecenter-test-1.advantest.com
+    url: $SOFTWARECENTER_TEST_1
   - name: Wetrack
-    url: https://wetrack.advantest.com
+    url: $WETRACK
   - name: Weshare
-    url: https://weshare.advantest.com
+    url: $WESHARE
   - name: Scortum
     url: https://scortum.com
   - name: Google
