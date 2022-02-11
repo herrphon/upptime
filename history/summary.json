@@ -72,7 +72,7 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "81.14%",
     "uptimeWeek": "97.31%",
@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-11": 1125,
+      "2022-02-11": 1136,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
