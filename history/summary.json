@@ -12,7 +12,7 @@
     "uptimeYear": "99.80%",
     "time": 549,
     "timeDay": 357,
-    "timeWeek": 424,
+    "timeWeek": 409,
     "timeMonth": 432,
     "timeYear": 549,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "37.22%",
-    "uptimeWeek": "59.60%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "97.67%",
+    "status": "down",
+    "uptime": "97.69%",
+    "uptimeDay": "37.29%",
+    "uptimeWeek": "59.93%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "97.69%",
     "time": 440,
     "timeDay": 380,
-    "timeWeek": 378,
+    "timeWeek": 377,
     "timeMonth": 379,
     "timeYear": 440,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
       "2022-02-15": 814,
       "2022-02-14": 571,
       "2022-02-13": 618,
-      "2022-02-12": 81
+      "2022-02-12": 48
     }
   },
   {
@@ -60,7 +60,7 @@
     "uptimeYear": "99.81%",
     "time": 517,
     "timeDay": 362,
-    "timeWeek": 388,
+    "timeWeek": 378,
     "timeMonth": 378,
     "timeYear": 517,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "97.36%",
-    "uptimeDay": "41.14%",
+    "uptimeDay": "45.47%",
     "uptimeWeek": "54.20%",
     "uptimeMonth": "89.46%",
     "uptimeYear": "97.36%",
@@ -109,7 +109,7 @@
     "uptimeYear": "99.77%",
     "time": 794,
     "timeDay": 500,
-    "timeWeek": 573,
+    "timeWeek": 568,
     "timeMonth": 577,
     "timeYear": 794,
     "dailyMinutesDown": {
@@ -134,7 +134,7 @@
     "uptimeYear": "99.55%",
     "time": 1495,
     "timeDay": 791,
-    "timeWeek": 2768,
+    "timeWeek": 3081,
     "timeMonth": 1630,
     "timeYear": 1495,
     "dailyMinutesDown": {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-18": 707,
+      "2022-02-18": 780,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
@@ -304,7 +304,7 @@
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 77,
-    "timeWeek": 154,
+    "timeWeek": 139,
     "timeMonth": 109,
     "timeYear": 104,
     "dailyMinutesDown": {}
