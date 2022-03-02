@@ -34,7 +34,7 @@
     "uptimeYear": "97.71%",
     "time": 411,
     "timeDay": 368,
-    "timeWeek": 382,
+    "timeWeek": 383,
     "timeMonth": 379,
     "timeYear": 411,
     "dailyMinutesDown": {
@@ -75,12 +75,12 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "49.27%",
-    "uptimeWeek": "56.57%",
-    "uptimeMonth": "90.01%",
-    "uptimeYear": "97.72%",
+    "status": "down",
+    "uptime": "97.75%",
+    "uptimeDay": "49.25%",
+    "uptimeWeek": "57.05%",
+    "uptimeMonth": "90.12%",
+    "uptimeYear": "97.75%",
     "time": 415,
     "timeDay": 382,
     "timeWeek": 380,
@@ -94,7 +94,7 @@
       "2022-02-26": 761,
       "2022-02-25": 692,
       "2022-02-24": 668,
-      "2022-02-23": 81
+      "2022-02-23": 32
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 389,
+      "2022-03-02": 420,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
