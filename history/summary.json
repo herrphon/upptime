@@ -13,7 +13,7 @@
     "time": 535,
     "timeDay": 534,
     "timeWeek": 430,
-    "timeMonth": 410,
+    "timeMonth": 412,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2022-02-10": 90,
@@ -26,12 +26,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "54.86%",
-    "uptimeWeek": "54.19%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "97.66%",
+    "status": "down",
+    "uptime": "97.68%",
+    "uptimeDay": "55.69%",
+    "uptimeWeek": "54.59%",
+    "uptimeMonth": "89.55%",
+    "uptimeYear": "97.68%",
     "time": 410,
     "timeDay": 412,
     "timeWeek": 396,
@@ -44,7 +44,7 @@
       "2022-03-02": 703,
       "2022-03-01": 587,
       "2022-02-28": 739,
-      "2022-02-27": 635
+      "2022-02-27": 594
     }
   },
   {
@@ -61,7 +61,7 @@
     "time": 504,
     "timeDay": 477,
     "timeWeek": 407,
-    "timeMonth": 379,
+    "timeMonth": 382,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2022-02-10": 89,
@@ -75,18 +75,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
     "status": "down",
-    "uptime": "97.83%",
+    "uptime": "97.82%",
     "uptimeDay": "49.18%",
-    "uptimeWeek": "57.46%",
-    "uptimeMonth": "90.21%",
-    "uptimeYear": "97.83%",
+    "uptimeWeek": "57.34%",
+    "uptimeMonth": "90.18%",
+    "uptimeYear": "97.82%",
     "time": 410,
     "timeDay": 374,
     "timeWeek": 381,
     "timeMonth": 384,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2022-03-05": 707,
+      "2022-03-05": 719,
       "2022-03-04": 652,
       "2022-03-03": 738,
       "2022-03-02": 837,
@@ -109,7 +109,7 @@
     "time": 770,
     "timeDay": 749,
     "timeWeek": 610,
-    "timeMonth": 559,
+    "timeMonth": 561,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2022-02-25": 35,
@@ -135,7 +135,7 @@
     "time": 1438,
     "timeDay": 1014,
     "timeWeek": 882,
-    "timeMonth": 1737,
+    "timeMonth": 1763,
     "timeYear": 1438,
     "dailyMinutesDown": {
       "2022-02-16": 19,
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-05": 1402,
+      "2022-03-05": 1414,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
@@ -320,7 +320,7 @@
     "time": 105,
     "timeDay": 360,
     "timeWeek": 115,
-    "timeMonth": 120,
+    "timeMonth": 123,
     "timeYear": 105,
     "dailyMinutesDown": {}
   }
