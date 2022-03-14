@@ -12,8 +12,8 @@
     "uptimeYear": "99.83%",
     "time": 529,
     "timeDay": 622,
-    "timeWeek": 418,
-    "timeMonth": 417,
+    "timeWeek": 411,
+    "timeMonth": 419,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2022-02-10": 90,
@@ -28,8 +28,8 @@
     "slug": "auth-bridge-test-1",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "47.86%",
-    "uptimeWeek": "52.44%",
+    "uptimeDay": "49.41%",
+    "uptimeWeek": "52.48%",
     "uptimeMonth": "88.95%",
     "uptimeYear": "97.70%",
     "time": 407,
@@ -61,8 +61,8 @@
     "uptimeYear": "99.84%",
     "time": 497,
     "timeDay": 515,
-    "timeWeek": 372,
-    "timeMonth": 388,
+    "timeWeek": 368,
+    "timeMonth": 389,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2022-02-10": 89,
@@ -75,12 +75,12 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "97.90%",
-    "uptimeDay": "52.47%",
-    "uptimeWeek": "56.15%",
-    "uptimeMonth": "89.91%",
-    "uptimeYear": "97.90%",
+    "status": "down",
+    "uptime": "97.93%",
+    "uptimeDay": "52.46%",
+    "uptimeWeek": "56.79%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "97.93%",
     "time": 403,
     "timeDay": 392,
     "timeWeek": 382,
@@ -93,7 +93,7 @@
       "2022-03-11": 604,
       "2022-03-10": 709,
       "2022-03-09": 611,
-      "2022-03-08": 523
+      "2022-03-08": 459
     }
   },
   {
@@ -109,8 +109,8 @@
     "uptimeYear": "99.79%",
     "time": 761,
     "timeDay": 770,
-    "timeWeek": 568,
-    "timeMonth": 566,
+    "timeWeek": 553,
+    "timeMonth": 568,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2022-02-25": 35,
@@ -135,8 +135,8 @@
     "uptimeYear": "99.62%",
     "time": 1411,
     "timeDay": 1065,
-    "timeWeek": 832,
-    "timeMonth": 1658,
+    "timeWeek": 811,
+    "timeMonth": 1686,
     "timeYear": 1411,
     "dailyMinutesDown": {
       "2022-02-16": 19,
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-14": 1375,
+      "2022-03-14": 1398,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
@@ -329,8 +329,8 @@
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 123,
-    "timeWeek": 75,
-    "timeMonth": 109,
+    "timeWeek": 74,
+    "timeMonth": 111,
     "timeYear": 104,
     "dailyMinutesDown": {}
   }
