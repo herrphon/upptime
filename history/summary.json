@@ -75,12 +75,12 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "50.71%",
-    "uptimeWeek": "55.64%",
-    "uptimeMonth": "89.79%",
-    "uptimeYear": "97.88%",
+    "status": "down",
+    "uptime": "97.90%",
+    "uptimeDay": "52.19%",
+    "uptimeWeek": "56.08%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "97.90%",
     "time": 403,
     "timeDay": 380,
     "timeWeek": 380,
@@ -94,7 +94,7 @@
       "2022-03-11": 604,
       "2022-03-10": 709,
       "2022-03-09": 611,
-      "2022-03-08": 192
+      "2022-03-08": 148
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-15": 687,
+      "2022-03-15": 708,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
