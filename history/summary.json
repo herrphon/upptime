@@ -12,7 +12,7 @@
     "uptimeYear": "99.87%",
     "time": 505,
     "timeDay": 357,
-    "timeWeek": 392,
+    "timeWeek": 395,
     "timeMonth": 400,
     "timeYear": 505,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "97.96%",
     "time": 399,
     "timeDay": 378,
-    "timeWeek": 389,
+    "timeWeek": 390,
     "timeMonth": 389,
     "timeYear": 399,
     "dailyMinutesDown": {
@@ -61,8 +61,8 @@
     "uptimeYear": "99.87%",
     "time": 474,
     "timeDay": 349,
-    "timeWeek": 363,
-    "timeMonth": 371,
+    "timeWeek": 367,
+    "timeMonth": 369,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2022-02-10": 89,
@@ -75,12 +75,12 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "37.14%",
-    "uptimeWeek": "51.50%",
-    "uptimeMonth": "88.84%",
-    "uptimeYear": "98.14%",
+    "status": "down",
+    "uptime": "98.16%",
+    "uptimeDay": "37.35%",
+    "uptimeWeek": "52.08%",
+    "uptimeMonth": "88.97%",
+    "uptimeYear": "98.16%",
     "time": 394,
     "timeDay": 362,
     "timeWeek": 387,
@@ -93,7 +93,7 @@
       "2022-04-16": 799,
       "2022-04-15": 761,
       "2022-04-14": 510,
-      "2022-04-13": 578
+      "2022-04-13": 519
     }
   },
   {
@@ -109,8 +109,8 @@
     "uptimeYear": "99.83%",
     "time": 731,
     "timeDay": 507,
-    "timeWeek": 545,
-    "timeMonth": 578,
+    "timeWeek": 555,
+    "timeMonth": 574,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2022-02-25": 35,
@@ -135,8 +135,8 @@
     "uptimeYear": "99.69%",
     "time": 1328,
     "timeDay": 750,
-    "timeWeek": 976,
-    "timeMonth": 929,
+    "timeWeek": 896,
+    "timeMonth": 927,
     "timeYear": 1328,
     "dailyMinutesDown": {
       "2022-02-16": 19,
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1396,
+      "2022-04-19": 1400,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
       "2022-04-16": 1440,
@@ -365,8 +365,8 @@
     "uptimeYear": "100.00%",
     "time": 99,
     "timeDay": 60,
-    "timeWeek": 69,
-    "timeMonth": 73,
+    "timeWeek": 71,
+    "timeMonth": 72,
     "timeYear": 99,
     "dailyMinutesDown": {}
   }
