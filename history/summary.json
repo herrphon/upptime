@@ -28,24 +28,24 @@
     "slug": "auth-bridge-test-1",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "60.75%",
-    "uptimeWeek": "55.07%",
-    "uptimeMonth": "89.05%",
+    "uptimeDay": "61.50%",
+    "uptimeWeek": "56.32%",
+    "uptimeMonth": "89.03%",
     "uptimeYear": "98.32%",
     "time": 397,
-    "timeDay": 400,
+    "timeDay": 402,
     "timeWeek": 386,
     "timeMonth": 386,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2022-05-05": 564,
+      "2022-05-05": 553,
       "2022-05-04": 696,
       "2022-05-03": 524,
       "2022-05-02": 711,
       "2022-05-01": 618,
       "2022-04-30": 672,
       "2022-04-29": 745,
-      "2022-04-28": 268
+      "2022-04-28": 288
     }
   },
   {
@@ -83,7 +83,7 @@
     "uptimeYear": "98.33%",
     "time": 393,
     "timeDay": 392,
-    "timeWeek": 385,
+    "timeWeek": 386,
     "timeMonth": 386,
     "timeYear": 393,
     "dailyMinutesDown": {
@@ -168,7 +168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-05": 1436,
+      "2022-05-06": 115,
+      "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
