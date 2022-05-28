@@ -26,12 +26,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "60.81%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "61.88%",
     "uptimeWeek": "52.62%",
-    "uptimeMonth": "88.70%",
-    "uptimeYear": "98.45%",
+    "uptimeMonth": "88.83%",
+    "uptimeYear": "98.46%",
     "time": 401,
     "timeDay": 436,
     "timeWeek": 427,
@@ -45,7 +45,7 @@
       "2022-05-24": 706,
       "2022-05-23": 760,
       "2022-05-22": 602,
-      "2022-05-21": 213
+      "2022-05-21": 157
     }
   },
   {
@@ -75,12 +75,12 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "51.84%",
-    "uptimeWeek": "50.47%",
-    "uptimeMonth": "87.34%",
-    "uptimeYear": "98.26%",
+    "status": "down",
+    "uptime": "98.27%",
+    "uptimeDay": "52.84%",
+    "uptimeWeek": "50.62%",
+    "uptimeMonth": "87.43%",
+    "uptimeYear": "98.27%",
     "time": 396,
     "timeDay": 426,
     "timeWeek": 425,
@@ -94,7 +94,7 @@
       "2022-05-24": 518,
       "2022-05-23": 963,
       "2022-05-22": 609,
-      "2022-05-21": 660
+      "2022-05-21": 619
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-28": 1282,
+      "2022-05-28": 1298,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
