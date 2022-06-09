@@ -6,9 +6,9 @@
     "slug": "auth-bridge",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.87%",
     "time": 504,
     "timeDay": 1684,
@@ -16,7 +16,7 @@
     "timeMonth": 555,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-06-09": 78,
+      "2022-06-09": 89,
       "2022-02-10": 90,
       "2022-01-09": 35,
       "2021-12-16": 224
@@ -27,11 +27,11 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "64.20%",
-    "uptimeWeek": "53.68%",
-    "uptimeMonth": "89.03%",
+    "uptimeDay": "64.18%",
+    "uptimeWeek": "53.77%",
+    "uptimeMonth": "89.09%",
     "uptimeYear": "98.57%",
     "time": 404,
     "timeDay": 413,
@@ -46,7 +46,7 @@
       "2022-06-05": 803,
       "2022-06-04": 622,
       "2022-06-03": 633,
-      "2022-06-02": 437
+      "2022-06-02": 411
     }
   },
   {
@@ -76,26 +76,26 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "60.11%",
-    "uptimeWeek": "55.30%",
-    "uptimeMonth": "89.56%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "60.54%",
+    "uptimeWeek": "55.29%",
+    "uptimeMonth": "89.67%",
+    "uptimeYear": "98.65%",
     "time": 399,
     "timeDay": 407,
     "timeWeek": 437,
     "timeMonth": 420,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2022-06-09": 263,
+      "2022-06-09": 264,
       "2022-06-08": 943,
       "2022-06-07": 506,
       "2022-06-06": 440,
       "2022-06-05": 668,
       "2022-06-04": 650,
       "2022-06-03": 802,
-      "2022-06-02": 302
+      "2022-06-02": 254
     }
   },
   {
@@ -171,7 +171,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 946,
+      "2022-06-09": 957,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
