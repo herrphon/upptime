@@ -1,7 +1,7 @@
 url: $AUTH_BRIDGE
-status: up
-code: 200
-responseTime: 593
-lastUpdated: 2022-06-08T23:18:21.194Z
+status: down
+code: 502
+responseTime: 2775
+lastUpdated: 2022-06-09T14:27:31.142Z
 startTime: Tue Oct 19 2021 21:17:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
