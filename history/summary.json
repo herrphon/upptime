@@ -28,12 +28,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "45.36%",
-    "uptimeWeek": "52.62%",
-    "uptimeMonth": "88.93%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "45.42%",
+    "uptimeWeek": "52.79%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "98.59%",
     "time": 405,
     "timeDay": 432,
     "timeWeek": 443,
@@ -47,7 +47,7 @@
       "2022-06-08": 876,
       "2022-06-07": 553,
       "2022-06-06": 613,
-      "2022-06-05": 255
+      "2022-06-05": 210
     }
   },
   {
@@ -80,7 +80,7 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "61.15%",
-    "uptimeWeek": "58.93%",
+    "uptimeWeek": "59.10%",
     "uptimeMonth": "90.49%",
     "uptimeYear": "98.77%",
     "time": 401,
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-12": 1103,
+      "2022-06-12": 1121,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
