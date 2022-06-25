@@ -11,9 +11,9 @@
     "uptimeMonth": "97.74%",
     "uptimeYear": "99.63%",
     "time": 503,
-    "timeDay": 444,
+    "timeDay": 543,
     "timeWeek": 432,
-    "timeMonth": 553,
+    "timeMonth": 556,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2022-06-10": 416,
@@ -28,12 +28,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "59.39%",
-    "uptimeWeek": "49.96%",
-    "uptimeMonth": "87.75%",
-    "uptimeYear": "98.50%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "60.28%",
+    "uptimeWeek": "50.09%",
+    "uptimeMonth": "87.94%",
+    "uptimeYear": "98.53%",
     "time": 408,
     "timeDay": 463,
     "timeWeek": 444,
@@ -47,7 +47,7 @@
       "2022-06-21": 800,
       "2022-06-20": 747,
       "2022-06-19": 799,
-      "2022-06-18": 346
+      "2022-06-18": 263
     }
   },
   {
@@ -64,7 +64,7 @@
     "time": 462,
     "timeDay": 520,
     "timeWeek": 399,
-    "timeMonth": 439,
+    "timeMonth": 436,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2022-02-10": 89,
@@ -79,17 +79,17 @@
     "slug": "software-center-test-1",
     "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "44.53%",
-    "uptimeWeek": "47.56%",
-    "uptimeMonth": "87.55%",
+    "uptimeDay": "43.59%",
+    "uptimeWeek": "47.55%",
+    "uptimeMonth": "87.52%",
     "uptimeYear": "98.48%",
     "time": 404,
     "timeDay": 449,
-    "timeWeek": 442,
+    "timeWeek": 443,
     "timeMonth": 437,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-06-25": 794,
+      "2022-06-25": 807,
       "2022-06-24": 648,
       "2022-06-23": 875,
       "2022-06-22": 841,
@@ -113,7 +113,7 @@
     "time": 712,
     "timeDay": 828,
     "timeWeek": 623,
-    "timeMonth": 674,
+    "timeMonth": 673,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2022-02-25": 35,
@@ -139,7 +139,7 @@
     "time": 1267,
     "timeDay": 1205,
     "timeWeek": 938,
-    "timeMonth": 1014,
+    "timeMonth": 1016,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2022-06-04": 27,
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 1398,
+      "2022-06-25": 1412,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
@@ -438,7 +438,7 @@
     "time": 95,
     "timeDay": 91,
     "timeWeek": 77,
-    "timeMonth": 84,
+    "timeMonth": 82,
     "timeYear": 95,
     "dailyMinutesDown": {}
   }
