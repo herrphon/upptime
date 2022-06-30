@@ -11,7 +11,7 @@
     "uptimeMonth": "97.74%",
     "uptimeYear": "99.63%",
     "time": 502,
-    "timeDay": 512,
+    "timeDay": 640,
     "timeWeek": 480,
     "timeMonth": 557,
     "timeYear": 502,
@@ -28,11 +28,11 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "38.88%",
-    "uptimeWeek": "52.33%",
-    "uptimeMonth": "87.85%",
+    "uptimeDay": "38.86%",
+    "uptimeWeek": "52.39%",
+    "uptimeMonth": "87.93%",
     "uptimeYear": "98.55%",
     "time": 409,
     "timeDay": 436,
@@ -47,7 +47,7 @@
       "2022-06-26": 870,
       "2022-06-25": 564,
       "2022-06-24": 652,
-      "2022-06-23": 548
+      "2022-06-23": 513
     }
   },
   {
@@ -64,7 +64,7 @@
     "time": 461,
     "timeDay": 581,
     "timeWeek": 439,
-    "timeMonth": 438,
+    "timeMonth": 435,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2022-02-10": 89,
@@ -79,14 +79,14 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "63.39%",
+    "uptimeDay": "63.76%",
     "uptimeWeek": "52.84%",
     "uptimeMonth": "88.74%",
     "uptimeYear": "98.65%",
     "time": 404,
     "timeDay": 407,
     "timeWeek": 422,
-    "timeMonth": 435,
+    "timeMonth": 434,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2022-06-30": 510,
@@ -113,7 +113,7 @@
     "time": 711,
     "timeDay": 831,
     "timeWeek": 669,
-    "timeMonth": 674,
+    "timeMonth": 673,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2022-02-25": 35,
@@ -139,7 +139,7 @@
     "time": 1262,
     "timeDay": 1238,
     "timeWeek": 967,
-    "timeMonth": 1015,
+    "timeMonth": 1005,
     "timeYear": 1262,
     "dailyMinutesDown": {
       "2022-06-04": 27,
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-30": 1400,
+      "2022-06-30": 1405,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
