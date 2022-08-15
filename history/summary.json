@@ -12,7 +12,7 @@
     "uptimeYear": "99.69%",
     "time": 495,
     "timeDay": 437,
-    "timeWeek": 483,
+    "timeWeek": 485,
     "timeMonth": 455,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -29,24 +29,24 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "55.64%",
-    "uptimeWeek": "56.11%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "98.98%",
+    "uptime": "98.97%",
+    "uptimeDay": "55.86%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "98.97%",
     "time": 417,
     "timeDay": 478,
     "timeWeek": 452,
     "timeMonth": 443,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2022-08-15": 639,
+      "2022-08-15": 636,
       "2022-08-14": 729,
       "2022-08-13": 677,
       "2022-08-12": 612,
       "2022-08-11": 659,
       "2022-08-10": 654,
-      "2022-08-09": 459
+      "2022-08-09": 506
     }
   },
   {
@@ -62,7 +62,7 @@
     "uptimeYear": "99.92%",
     "time": 457,
     "timeDay": 424,
-    "timeWeek": 470,
+    "timeWeek": 463,
     "timeMonth": 434,
     "timeYear": 457,
     "dailyMinutesDown": {
@@ -76,26 +76,26 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "45.59%",
-    "uptimeWeek": "49.37%",
-    "uptimeMonth": "88.13%",
+    "uptimeDay": "45.51%",
+    "uptimeWeek": "49.52%",
+    "uptimeMonth": "88.17%",
     "uptimeYear": "98.80%",
     "time": 412,
-    "timeDay": 440,
+    "timeDay": 435,
     "timeWeek": 440,
     "timeMonth": 436,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-08-15": 780,
+      "2022-08-15": 781,
       "2022-08-14": 953,
       "2022-08-13": 708,
       "2022-08-12": 630,
       "2022-08-11": 452,
       "2022-08-10": 806,
       "2022-08-09": 748,
-      "2022-08-08": 121
+      "2022-08-08": 105
     }
   },
   {
@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-15": 1400,
+      "2022-08-15": 1416,
       "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
