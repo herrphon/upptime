@@ -1,7 +1,7 @@
 url: $WESHARE
-status: down
-code: 502
-responseTime: 3818
-lastUpdated: 2022-09-22T08:17:35.745Z
+status: up
+code: 200
+responseTime: 24931
+lastUpdated: 2022-09-22T08:48:14.639Z
 startTime: Fri Oct 08 2021 19:07:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
