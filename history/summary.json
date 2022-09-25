@@ -13,7 +13,7 @@
     "time": 496,
     "timeDay": 575,
     "timeWeek": 539,
-    "timeMonth": 489,
+    "timeMonth": 491,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2022-06-10": 416,
@@ -28,12 +28,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "40.79%",
-    "uptimeWeek": "41.96%",
-    "uptimeMonth": "82.11%",
-    "uptimeYear": "98.40%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "41.68%",
+    "uptimeWeek": "42.01%",
+    "uptimeMonth": "82.16%",
+    "uptimeYear": "98.41%",
     "time": 424,
     "timeDay": 464,
     "timeWeek": 495,
@@ -50,7 +50,7 @@
       "2022-09-18": 503,
       "2022-09-17": 644,
       "2022-09-16": 562,
-      "2022-09-15": 284
+      "2022-09-15": 261
     }
   },
   {
@@ -67,7 +67,7 @@
     "time": 461,
     "timeDay": 578,
     "timeWeek": 476,
-    "timeMonth": 456,
+    "timeMonth": 457,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2022-02-10": 89,
@@ -80,19 +80,19 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "46.78%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "47.61%",
     "uptimeWeek": "40.58%",
-    "uptimeMonth": "82.43%",
-    "uptimeYear": "98.43%",
+    "uptimeMonth": "82.67%",
+    "uptimeYear": "98.45%",
     "time": 417,
     "timeDay": 452,
     "timeWeek": 456,
     "timeMonth": 451,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2022-09-25": 730,
+      "2022-09-25": 731,
       "2022-09-24": 784,
       "2022-09-23": 778,
       "2022-09-22": 634,
@@ -101,7 +101,7 @@
       "2022-09-19": 779,
       "2022-09-18": 789,
       "2022-09-17": 579,
-      "2022-09-16": 342
+      "2022-09-16": 236
     }
   },
   {
@@ -146,7 +146,7 @@
     "time": 1271,
     "timeDay": 1223,
     "timeWeek": 3710,
-    "timeMonth": 1775,
+    "timeMonth": 1799,
     "timeYear": 1271,
     "dailyMinutesDown": {
       "2022-09-22": 104,
@@ -180,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-25": 1405,
+      "2022-09-25": 1416,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
@@ -538,7 +538,7 @@
     "time": 96,
     "timeDay": 83,
     "timeWeek": 107,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 96,
     "dailyMinutesDown": {}
   }
