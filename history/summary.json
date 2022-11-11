@@ -32,12 +32,12 @@
     "slug": "auth-bridge-test-1",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "58.12%",
-    "uptimeWeek": "50.38%",
+    "uptimeDay": "62.82%",
+    "uptimeWeek": "50.39%",
     "uptimeMonth": "88.15%",
     "uptimeYear": "99.01%",
     "time": 429,
-    "timeDay": 441,
+    "timeDay": 431,
     "timeWeek": 459,
     "timeMonth": 461,
     "timeYear": 428,
@@ -83,7 +83,7 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "51.02%",
+    "uptimeDay": "60.99%",
     "uptimeWeek": "52.77%",
     "uptimeMonth": "88.69%",
     "uptimeYear": "99.06%",
@@ -180,7 +180,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-10": 1430,
+      "2022-11-11": 134,
+      "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -543,8 +544,7 @@
       "2021-11-15": 1440,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
-      "2021-11-12": 1440,
-      "2021-11-11": 1440
+      "2021-11-12": 1440
     }
   },
   {
