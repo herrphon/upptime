@@ -30,15 +30,15 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "61.82%",
+    "uptimeDay": "61.80%",
     "uptimeWeek": "59.00%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "99.19%",
+    "uptimeMonth": "90.35%",
+    "uptimeYear": "99.20%",
     "time": 431,
     "timeDay": 438,
-    "timeWeek": 458,
+    "timeWeek": 457,
     "timeMonth": 458,
     "timeYear": 429,
     "dailyMinutesDown": {
@@ -49,7 +49,7 @@
       "2022-11-22": 503,
       "2022-11-21": 518,
       "2022-11-20": 651,
-      "2022-11-19": 131
+      "2022-11-19": 113
     }
   },
   {
@@ -66,7 +66,7 @@
     "time": 460,
     "timeDay": 452,
     "timeWeek": 451,
-    "timeMonth": 428,
+    "timeMonth": 427,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2022-10-26": 440,
@@ -81,26 +81,26 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "53.42%",
-    "uptimeWeek": "54.26%",
-    "uptimeMonth": "89.22%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "53.37%",
+    "uptimeWeek": "54.38%",
+    "uptimeMonth": "89.27%",
+    "uptimeYear": "99.11%",
     "time": 427,
-    "timeDay": 454,
+    "timeDay": 451,
     "timeWeek": 450,
     "timeMonth": 451,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-11-26": 654,
+      "2022-11-26": 655,
       "2022-11-25": 671,
       "2022-11-24": 795,
       "2022-11-23": 734,
       "2022-11-22": 631,
       "2022-11-21": 460,
       "2022-11-20": 633,
-      "2022-11-19": 142
+      "2022-11-19": 122
     }
   },
   {
@@ -117,7 +117,7 @@
     "time": 712,
     "timeDay": 657,
     "timeWeek": 640,
-    "timeMonth": 740,
+    "timeMonth": 744,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2022-10-26": 439,
@@ -146,7 +146,7 @@
     "time": 1227,
     "timeDay": 971,
     "timeWeek": 909,
-    "timeMonth": 910,
+    "timeMonth": 908,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2022-10-26": 438,
@@ -179,7 +179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-26": 1403,
+      "2022-11-26": 1416,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
@@ -560,7 +560,7 @@
     "time": 100,
     "timeDay": 78,
     "timeWeek": 165,
-    "timeMonth": 117,
+    "timeMonth": 118,
     "timeYear": 96,
     "dailyMinutesDown": {}
   }
