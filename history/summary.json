@@ -31,12 +31,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "44.20%",
-    "uptimeWeek": "56.98%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "45.31%",
+    "uptimeWeek": "57.16%",
+    "uptimeMonth": "90.14%",
+    "uptimeYear": "99.18%",
     "time": 434,
     "timeDay": 468,
     "timeWeek": 462,
@@ -50,7 +50,7 @@
       "2022-12-07": 579,
       "2022-12-06": 588,
       "2022-12-05": 588,
-      "2022-12-04": 298
+      "2022-12-04": 280
     }
   },
   {
@@ -83,26 +83,26 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "60.26%",
-    "uptimeWeek": "55.35%",
-    "uptimeMonth": "89.72%",
-    "uptimeYear": "99.14%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "60.22%",
+    "uptimeWeek": "56.22%",
+    "uptimeMonth": "89.93%",
+    "uptimeYear": "99.16%",
     "time": 429,
     "timeDay": 430,
     "timeWeek": 453,
     "timeMonth": 457,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2022-12-11": 222,
+      "2022-12-11": 223,
       "2022-12-10": 660,
       "2022-12-09": 620,
       "2022-12-08": 738,
       "2022-12-07": 707,
       "2022-12-06": 650,
       "2022-12-05": 633,
-      "2022-12-04": 279
+      "2022-12-04": 190
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-11": 655,
+      "2022-12-11": 671,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
