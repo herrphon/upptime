@@ -14,7 +14,7 @@
     "timeDay": 388,
     "timeWeek": 449,
     "timeMonth": 464,
-    "timeYear": 462,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2022-11-30": 30,
       "2022-10-26": 441,
@@ -34,14 +34,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.89%",
+    "uptimeYear": "86.88%",
     "time": 435,
     "timeDay": 0,
     "timeWeek": 414,
     "timeMonth": 438,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-02-05": 1401,
+      "2023-02-05": 1423,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -123,11 +123,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "63.31%",
+    "uptimeDay": "64.79%",
     "uptimeWeek": "63.35%",
-    "uptimeMonth": "90.96%",
+    "uptimeMonth": "91.00%",
     "uptimeYear": "99.25%",
     "time": 433,
     "timeDay": 437,
@@ -135,14 +135,14 @@
     "timeMonth": 449,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-02-05": 492,
+      "2023-02-05": 493,
       "2023-02-04": 515,
       "2023-02-03": 444,
       "2023-02-02": 615,
       "2023-02-01": 513,
       "2023-01-31": 597,
       "2023-01-30": 520,
-      "2023-01-29": 266
+      "2023-01-29": 248
     }
   },
   {
@@ -160,7 +160,7 @@
     "timeDay": 553,
     "timeWeek": 672,
     "timeMonth": 665,
-    "timeYear": 663,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2023-01-31": 21,
       "2022-11-30": 29,
@@ -187,7 +187,7 @@
     "timeDay": 816,
     "timeWeek": 3127,
     "timeMonth": 1519,
-    "timeYear": 1265,
+    "timeYear": 1266,
     "dailyMinutesDown": {
       "2023-02-02": 59,
       "2023-01-05": 26,
@@ -219,7 +219,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-05": 1403,
+      "2023-02-05": 1425,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
