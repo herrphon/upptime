@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "96.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.06%",
+    "uptimeWeek": "18.04%",
     "uptimeMonth": "52.80%",
     "uptimeYear": "95.78%",
     "time": 475,
@@ -43,18 +43,19 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "83.26%",
-    "uptimeDay": "49.29%",
-    "uptimeWeek": "8.45%",
-    "uptimeMonth": "9.90%",
-    "uptimeYear": "76.47%",
+    "status": "down",
+    "uptime": "83.27%",
+    "uptimeDay": "54.48%",
+    "uptimeWeek": "9.42%",
+    "uptimeMonth": "10.12%",
+    "uptimeYear": "76.48%",
     "time": 442,
-    "timeDay": 718,
+    "timeDay": 711,
     "timeWeek": 688,
     "timeMonth": 634,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2023-03-17": 0,
       "2023-03-16": 728,
       "2023-03-15": 1298,
       "2023-03-14": 1440,
@@ -144,7 +145,7 @@
       "2022-12-20": 671,
       "2022-12-19": 586,
       "2022-12-18": 525,
-      "2022-12-17": 74
+      "2022-12-17": 52
     }
   },
   {
@@ -174,11 +175,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "58.78%",
-    "uptimeWeek": "57.86%",
-    "uptimeMonth": "90.04%",
+    "uptimeDay": "66.28%",
+    "uptimeWeek": "57.96%",
+    "uptimeMonth": "90.07%",
     "uptimeYear": "99.17%",
     "time": 440,
     "timeDay": 446,
@@ -186,7 +187,8 @@
     "timeMonth": 459,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2023-03-16": 593,
+      "2023-03-17": 1,
+      "2023-03-16": 582,
       "2023-03-15": 639,
       "2023-03-14": 614,
       "2023-03-13": 556,
@@ -270,7 +272,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-16": 1439,
+      "2023-03-17": 97,
+      "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -633,8 +636,7 @@
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
-      "2022-03-18": 1440,
-      "2022-03-17": 1440
+      "2022-03-18": 1440
     }
   },
   {
