@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "96.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.99%",
+    "uptimeWeek": "65.13%",
     "uptimeMonth": "52.80%",
     "uptimeYear": "95.78%",
     "time": 475,
@@ -43,11 +43,11 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "83.34%",
-    "uptimeDay": "55.68%",
-    "uptimeWeek": "36.06%",
-    "uptimeMonth": "16.25%",
+    "status": "down",
+    "uptime": "83.35%",
+    "uptimeDay": "56.70%",
+    "uptimeWeek": "36.20%",
+    "uptimeMonth": "16.29%",
     "uptimeYear": "76.43%",
     "time": 446,
     "timeDay": 715,
@@ -144,8 +144,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 925,
-      "2022-12-21": 785,
-      "2022-12-20": 22
+      "2022-12-21": 785
     }
   },
   {
@@ -177,7 +176,7 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "62.59%",
+    "uptimeDay": "63.18%",
     "uptimeWeek": "60.70%",
     "uptimeMonth": "90.44%",
     "uptimeYear": "99.20%",
@@ -271,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 509,
+      "2023-03-20": 524,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
