@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "96.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "52.80%",
     "uptimeYear": "95.78%",
     "time": 475,
@@ -44,24 +44,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "56.13%",
-    "uptimeWeek": "58.52%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "99.20%",
+    "uptime": "99.43%",
+    "uptimeDay": "57.08%",
+    "uptimeWeek": "57.79%",
+    "uptimeMonth": "90.29%",
+    "uptimeYear": "99.19%",
     "time": 450,
     "timeDay": 712,
     "timeWeek": 700,
     "timeMonth": 681,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2023-03-22": 482,
+      "2023-03-22": 468,
       "2023-03-21": 595,
       "2023-03-20": 739,
       "2023-03-19": 624,
       "2023-03-18": 626,
       "2023-03-17": 571,
-      "2023-03-16": 547
+      "2023-03-16": 634
     }
   },
   {
@@ -91,11 +91,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "47.49%",
-    "uptimeWeek": "63.84%",
-    "uptimeMonth": "91.68%",
+    "uptimeDay": "48.17%",
+    "uptimeWeek": "63.98%",
+    "uptimeMonth": "91.71%",
     "uptimeYear": "99.31%",
     "time": 441,
     "timeDay": 449,
@@ -103,13 +103,13 @@
     "timeMonth": 460,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2023-03-22": 503,
+      "2023-03-22": 504,
       "2023-03-21": 654,
       "2023-03-20": 461,
       "2023-03-19": 521,
       "2023-03-18": 468,
       "2023-03-17": 647,
-      "2023-03-16": 395
+      "2023-03-16": 380
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 1009,
+      "2023-03-22": 1020,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
