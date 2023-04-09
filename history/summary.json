@@ -8,7 +8,7 @@
     "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.57%",
+    "uptimeMonth": "79.60%",
     "uptimeYear": "95.78%",
     "time": 477,
     "timeDay": 558,
@@ -43,15 +43,15 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "66.75%",
-    "uptimeWeek": "60.87%",
-    "uptimeMonth": "91.00%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "66.74%",
+    "uptimeWeek": "61.28%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "99.26%",
     "time": 477,
     "timeDay": 747,
-    "timeWeek": 716,
+    "timeWeek": 717,
     "timeMonth": 709,
     "timeYear": 479,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
       "2023-04-06": 651,
       "2023-04-05": 629,
       "2023-04-04": 648,
-      "2023-04-03": 419
+      "2023-04-03": 378
     }
   },
   {
@@ -91,25 +91,25 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "56.83%",
-    "uptimeWeek": "54.87%",
-    "uptimeMonth": "89.61%",
-    "uptimeYear": "99.13%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "56.79%",
+    "uptimeWeek": "55.32%",
+    "uptimeMonth": "89.72%",
+    "uptimeYear": "99.14%",
     "time": 444,
     "timeDay": 437,
     "timeWeek": 448,
     "timeMonth": 447,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-04-09": 372,
+      "2023-04-09": 373,
       "2023-04-08": 705,
       "2023-04-07": 626,
       "2023-04-06": 701,
       "2023-04-05": 652,
       "2023-04-04": 788,
-      "2023-04-03": 708
+      "2023-04-03": 662
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-09": 849,
+      "2023-04-09": 863,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
