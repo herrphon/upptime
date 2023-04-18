@@ -45,23 +45,23 @@
     "slug": "auth-bridge-test-1",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "52.79%",
-    "uptimeWeek": "59.25%",
-    "uptimeMonth": "90.62%",
+    "uptimeDay": "50.26%",
+    "uptimeWeek": "59.29%",
+    "uptimeMonth": "90.63%",
     "uptimeYear": "99.22%",
     "time": 490,
-    "timeDay": 715,
+    "timeDay": 717,
     "timeWeek": 707,
     "timeMonth": 713,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2023-04-18": 250,
+      "2023-04-18": 305,
       "2023-04-17": 672,
       "2023-04-16": 658,
       "2023-04-15": 687,
       "2023-04-14": 652,
       "2023-04-13": 598,
-      "2023-04-12": 592
+      "2023-04-12": 534
     }
   },
   {
@@ -93,7 +93,7 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "60.61%",
+    "uptimeDay": "64.67%",
     "uptimeWeek": "59.77%",
     "uptimeMonth": "90.74%",
     "uptimeYear": "99.23%",
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-18": 510,
+      "2023-04-18": 579,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
