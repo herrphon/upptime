@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -43,15 +43,15 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "42.17%",
-    "uptimeWeek": "59.48%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "42.16%",
+    "uptimeWeek": "59.67%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "99.23%",
     "time": 533,
-    "timeDay": 736,
-    "timeWeek": 722,
+    "timeDay": 729,
+    "timeWeek": 723,
     "timeMonth": 708,
     "timeYear": 535,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
       "2023-05-15": 578,
       "2023-05-14": 553,
       "2023-05-13": 610,
-      "2023-05-12": 335
+      "2023-05-12": 316
     }
   },
   {
@@ -91,11 +91,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "75.11%",
-    "uptimeWeek": "58.58%",
-    "uptimeMonth": "90.47%",
+    "uptimeDay": "75.12%",
+    "uptimeWeek": "58.90%",
+    "uptimeMonth": "90.54%",
     "uptimeYear": "99.21%",
     "time": 450,
     "timeDay": 433,
@@ -103,13 +103,13 @@
     "timeMonth": 444,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2023-05-18": 321,
+      "2023-05-18": 322,
       "2023-05-17": 784,
       "2023-05-16": 809,
       "2023-05-15": 603,
       "2023-05-14": 771,
       "2023-05-13": 480,
-      "2023-05-12": 418
+      "2023-05-12": 385
     }
   },
   {
@@ -187,7 +187,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1371,
+      "2023-05-18": 1382,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
