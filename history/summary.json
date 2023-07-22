@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.96%",
     "time": 526,
-    "timeDay": 786,
-    "timeWeek": 642,
+    "timeDay": 864,
+    "timeWeek": 632,
     "timeMonth": 638,
     "timeYear": 548,
     "dailyMinutesDown": {
@@ -43,11 +43,11 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "64.64%",
-    "uptimeWeek": "60.73%",
-    "uptimeMonth": "90.96%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "64.65%",
+    "uptimeWeek": "61.10%",
+    "uptimeMonth": "91.05%",
     "uptimeYear": "99.25%",
     "time": 594,
     "timeDay": 678,
@@ -61,7 +61,7 @@
       "2023-07-19": 559,
       "2023-07-18": 590,
       "2023-07-17": 583,
-      "2023-07-16": 242
+      "2023-07-16": 204
     }
   },
   {
@@ -77,8 +77,8 @@
     "uptimeYear": "99.90%",
     "time": 438,
     "timeDay": 554,
-    "timeWeek": 393,
-    "timeMonth": 426,
+    "timeWeek": 388,
+    "timeMonth": 428,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2023-06-20": 18,
@@ -96,8 +96,8 @@
     "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "49.87%",
-    "uptimeWeek": "59.59%",
-    "uptimeMonth": "90.70%",
+    "uptimeWeek": "59.55%",
+    "uptimeMonth": "90.69%",
     "uptimeYear": "99.22%",
     "time": 444,
     "timeDay": 430,
@@ -105,7 +105,7 @@
     "timeMonth": 410,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-07-22": 708,
+      "2023-07-22": 712,
       "2023-07-21": 717,
       "2023-07-20": 735,
       "2023-07-19": 425,
@@ -128,7 +128,7 @@
     "time": 691,
     "timeDay": 813,
     "timeWeek": 604,
-    "timeMonth": 600,
+    "timeMonth": 604,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2023-06-20": 17,
@@ -152,7 +152,7 @@
     "time": 1214,
     "timeDay": 1187,
     "timeWeek": 875,
-    "timeMonth": 863,
+    "timeMonth": 869,
     "timeYear": 1247,
     "dailyMinutesDown": {
       "2023-07-15": 19,
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-22": 1395,
+      "2023-07-22": 1399,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
@@ -569,7 +569,7 @@
     "time": 100,
     "timeDay": 99,
     "timeWeek": 95,
-    "timeMonth": 104,
+    "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {}
   }
