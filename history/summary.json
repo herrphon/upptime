@@ -45,7 +45,7 @@
     "slug": "auth-bridge-test-1",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "50.42%",
+    "uptimeDay": "54.02%",
     "uptimeWeek": "60.30%",
     "uptimeMonth": "90.87%",
     "uptimeYear": "99.24%",
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-12": 25,
+      "2023-10-12": 76,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
