@@ -42,14 +42,14 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "69.28%",
-    "uptimeWeek": "63.29%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "69.67%",
+    "uptimeWeek": "63.64%",
+    "uptimeMonth": "91.63%",
     "uptimeYear": "99.30%",
     "time": 652,
-    "timeDay": 692,
+    "timeDay": 690,
     "timeWeek": 690,
     "timeMonth": 674,
     "timeYear": 653,
@@ -60,7 +60,7 @@
       "2023-10-22": 775,
       "2023-10-21": 588,
       "2023-10-20": 592,
-      "2023-10-19": 256
+      "2023-10-19": 220
     }
   },
   {
@@ -93,7 +93,7 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "65.29%",
+    "uptimeDay": "66.05%",
     "uptimeWeek": "63.95%",
     "uptimeMonth": "91.70%",
     "uptimeYear": "99.31%",
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-25": 1174,
+      "2023-10-25": 1185,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
