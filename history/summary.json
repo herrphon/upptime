@@ -89,25 +89,25 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "60.89%",
-    "uptimeWeek": "63.01%",
-    "uptimeMonth": "91.49%",
+    "uptimeDay": "60.82%",
+    "uptimeWeek": "63.16%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
     "time": 434,
     "timeDay": 413,
-    "timeWeek": 410,
+    "timeWeek": 409,
     "timeMonth": 418,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2023-11-10": 282,
+      "2023-11-10": 283,
       "2023-11-09": 664,
       "2023-11-08": 725,
       "2023-11-07": 511,
       "2023-11-06": 518,
       "2023-11-05": 610,
-      "2023-11-04": 421
+      "2023-11-04": 405
     }
   },
   {
@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 827,
+      "2023-11-10": 838,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
