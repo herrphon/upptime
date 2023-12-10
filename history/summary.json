@@ -42,13 +42,13 @@
     "slug": "auth-bridge-test-1",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "54.80%",
-    "uptimeWeek": "60.22%",
+    "uptimeDay": "61.33%",
+    "uptimeWeek": "60.63%",
     "uptimeMonth": "90.67%",
     "uptimeYear": "99.22%",
     "time": 675,
     "timeDay": 657,
-    "timeWeek": 677,
+    "timeWeek": 678,
     "timeMonth": 674,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -90,22 +90,22 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "59.66%",
-    "uptimeWeek": "60.10%",
-    "uptimeMonth": "90.82%",
+    "uptimeDay": "63.38%",
+    "uptimeWeek": "59.89%",
+    "uptimeMonth": "90.77%",
     "uptimeYear": "99.23%",
     "time": 431,
-    "timeDay": 423,
+    "timeDay": 419,
     "timeWeek": 415,
     "timeMonth": 410,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-12-09": 573,
+      "2023-12-09": 562,
       "2023-12-08": 754,
       "2023-12-07": 762,
       "2023-12-06": 678,
       "2023-12-05": 633,
-      "2023-12-04": 626
+      "2023-12-04": 658
     }
   },
   {
@@ -180,7 +180,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-09": 1434,
+      "2023-12-10": 89,
+      "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -543,8 +544,7 @@
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
-      "2022-12-11": 1440,
-      "2022-12-10": 1440
+      "2022-12-11": 1440
     }
   },
   {
