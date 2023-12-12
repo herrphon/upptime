@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.06%",
     "time": 597,
-    "timeDay": 653,
-    "timeWeek": 688,
+    "timeDay": 521,
+    "timeWeek": 709,
     "timeMonth": 745,
-    "timeYear": 637,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2023-06-20": 18,
       "2023-05-22": 21,
@@ -40,12 +40,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "57.29%",
-    "uptimeWeek": "61.82%",
-    "uptimeMonth": "91.21%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "57.28%",
+    "uptimeWeek": "62.42%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "99.28%",
     "time": 676,
     "timeDay": 631,
     "timeWeek": 658,
@@ -58,7 +58,7 @@
       "2023-12-09": 644,
       "2023-12-08": 591,
       "2023-12-07": 553,
-      "2023-12-06": 168
+      "2023-12-06": 107
     }
   },
   {
@@ -87,11 +87,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "47.82%",
-    "uptimeWeek": "57.02%",
-    "uptimeMonth": "90.11%",
+    "uptimeDay": "48.26%",
+    "uptimeWeek": "57.36%",
+    "uptimeMonth": "90.19%",
     "uptimeYear": "99.18%",
     "time": 430,
     "timeDay": 377,
@@ -99,13 +99,13 @@
     "timeMonth": 407,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-12-12": 709,
+      "2023-12-12": 710,
       "2023-12-11": 698,
       "2023-12-10": 516,
       "2023-12-09": 562,
       "2023-12-08": 754,
       "2023-12-07": 762,
-      "2023-12-06": 337
+      "2023-12-06": 301
     }
   },
   {
@@ -147,7 +147,7 @@
     "timeDay": 635,
     "timeWeek": 757,
     "timeMonth": 867,
-    "timeYear": 1151,
+    "timeYear": 1152,
     "dailyMinutesDown": {
       "2023-10-25": 22,
       "2023-07-15": 19,
@@ -180,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-12": 1397,
+      "2023-12-12": 1405,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
