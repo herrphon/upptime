@@ -11,10 +11,10 @@
     "uptimeMonth": "98.15%",
     "uptimeYear": "95.90%",
     "time": 615,
-    "timeDay": 688,
+    "timeDay": 833,
     "timeWeek": 605,
     "timeMonth": 669,
-    "timeYear": 665,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2024-01-03": 783,
       "2024-01-02": 30,
@@ -44,23 +44,23 @@
     "slug": "auth-bridge-test-1",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "73.93%",
-    "uptimeWeek": "62.86%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "74.96%",
+    "uptimeWeek": "62.61%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "99.28%",
     "time": 683,
     "timeDay": 625,
     "timeWeek": 656,
     "timeMonth": 676,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2024-01-31": 375,
+      "2024-01-31": 360,
       "2024-01-30": 639,
       "2024-01-29": 647,
       "2024-01-28": 675,
       "2024-01-27": 552,
       "2024-01-26": 694,
-      "2024-01-25": 167
+      "2024-01-25": 207
     }
   },
   {
@@ -91,11 +91,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "49.12%",
-    "uptimeWeek": "62.37%",
-    "uptimeMonth": "91.34%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "49.30%",
+    "uptimeWeek": "62.52%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 425,
     "timeDay": 405,
@@ -103,13 +103,13 @@
     "timeMonth": 414,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2024-01-31": 722,
+      "2024-01-31": 723,
       "2024-01-30": 601,
       "2024-01-29": 612,
       "2024-01-28": 627,
       "2024-01-27": 663,
       "2024-01-26": 483,
-      "2024-01-25": 87
+      "2024-01-25": 71
     }
   },
   {
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 1398,
+      "2024-01-31": 1401,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
