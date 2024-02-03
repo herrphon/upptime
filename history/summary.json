@@ -8,7 +8,7 @@
     "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.19%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "95.90%",
     "time": 615,
     "timeDay": 529,
@@ -42,11 +42,11 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "42.09%",
-    "uptimeWeek": "62.74%",
-    "uptimeMonth": "91.43%",
+    "uptimeDay": "48.19%",
+    "uptimeWeek": "62.91%",
+    "uptimeMonth": "91.46%",
     "uptimeYear": "99.29%",
     "time": 683,
     "timeDay": 717,
@@ -54,13 +54,14 @@
     "timeMonth": 677,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2024-02-03": 0,
       "2024-02-02": 823,
       "2024-02-01": 555,
       "2024-01-31": 382,
       "2024-01-30": 639,
       "2024-01-29": 647,
       "2024-01-28": 675,
-      "2024-01-27": 39
+      "2024-01-27": 22
     }
   },
   {
@@ -72,7 +73,7 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.31%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "99.85%",
     "time": 433,
     "timeDay": 314,
@@ -98,8 +99,8 @@
     "uptimeMonth": "91.68%",
     "uptimeYear": "99.31%",
     "time": 425,
-    "timeDay": 412,
-    "timeWeek": 412,
+    "timeDay": 408,
+    "timeWeek": 413,
     "timeMonth": 415,
     "timeYear": 425,
     "dailyMinutesDown": {
@@ -120,7 +121,7 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.06%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.69%",
     "time": 684,
     "timeDay": 550,
@@ -149,7 +150,7 @@
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.24%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.75%",
     "time": 1105,
     "timeDay": 641,
@@ -187,7 +188,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-02": 1430,
+      "2024-02-03": 80,
+      "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -550,8 +552,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   },
   {
