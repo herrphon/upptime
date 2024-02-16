@@ -42,19 +42,20 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "58.33%",
-    "uptimeWeek": "63.45%",
-    "uptimeMonth": "91.59%",
+    "uptimeDay": "59.06%",
+    "uptimeWeek": "63.56%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 682,
-    "timeDay": 663,
-    "timeWeek": 650,
+    "timeDay": 670,
+    "timeWeek": 651,
     "timeMonth": 665,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2024-02-15": 602,
+      "2024-02-16": 0,
+      "2024-02-15": 591,
       "2024-02-14": 664,
       "2024-02-13": 569,
       "2024-02-12": 742,
@@ -91,23 +92,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "50.77%",
-    "uptimeWeek": "63.19%",
-    "uptimeMonth": "91.53%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.69%",
+    "uptimeDay": "54.51%",
+    "uptimeWeek": "61.98%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "99.27%",
     "time": 423,
     "timeDay": 402,
     "timeWeek": 415,
     "timeMonth": 411,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-02-15": 703,
+      "2024-02-15": 692,
       "2024-02-14": 669,
       "2024-02-13": 704,
       "2024-02-12": 568,
       "2024-02-11": 619,
-      "2024-02-10": 448
+      "2024-02-10": 538,
+      "2024-02-09": 42
     }
   },
   {
@@ -165,8 +167,7 @@
       "2023-07-15": 19,
       "2023-06-22": 41,
       "2023-04-19": 82,
-      "2023-03-02": 293,
-      "2023-02-16": 25
+      "2023-03-02": 293
     }
   },
   {
@@ -186,7 +187,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-15": 1433,
+      "2024-02-16": 36,
+      "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
@@ -549,8 +551,7 @@
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
-      "2023-02-17": 1440,
-      "2023-02-16": 1440
+      "2023-02-17": 1440
     }
   },
   {
