@@ -44,24 +44,24 @@
     "slug": "auth-bridge-test-1",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "63.19%",
-    "uptimeWeek": "66.06%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "63.94%",
+    "uptimeWeek": "66.21%",
+    "uptimeMonth": "92.22%",
     "uptimeYear": "99.35%",
     "time": 681,
-    "timeDay": 706,
+    "timeDay": 704,
     "timeWeek": 651,
     "timeMonth": 662,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-02-24": 39,
+      "2024-02-24": 50,
       "2024-02-23": 535,
       "2024-02-22": 648,
       "2024-02-21": 503,
       "2024-02-20": 517,
       "2024-02-19": 511,
       "2024-02-18": 608,
-      "2024-02-17": 69
+      "2024-02-17": 43
     }
   },
   {
@@ -94,23 +94,23 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "44.68%",
-    "uptimeWeek": "61.86%",
-    "uptimeMonth": "91.22%",
+    "uptimeDay": "43.84%",
+    "uptimeWeek": "61.88%",
+    "uptimeMonth": "91.23%",
     "uptimeYear": "99.27%",
     "time": 423,
-    "timeDay": 394,
+    "timeDay": 398,
     "timeWeek": 405,
     "timeMonth": 409,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2024-02-24": 190,
+      "2024-02-24": 211,
       "2024-02-23": 776,
       "2024-02-22": 584,
       "2024-02-21": 713,
       "2024-02-20": 716,
       "2024-02-19": 501,
-      "2024-02-18": 369
+      "2024-02-18": 346
     }
   },
   {
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-24": 227,
+      "2024-02-24": 258,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
