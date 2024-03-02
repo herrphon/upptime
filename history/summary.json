@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.08%",
+    "uptimeYear": "96.09%",
     "time": 625,
     "timeDay": 704,
     "timeWeek": 692,
@@ -39,11 +39,11 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "51.75%",
-    "uptimeWeek": "63.55%",
-    "uptimeMonth": "91.61%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "53.62%",
+    "uptimeWeek": "63.76%",
+    "uptimeMonth": "91.66%",
     "uptimeYear": "99.30%",
     "time": 682,
     "timeDay": 662,
@@ -57,7 +57,7 @@
       "2024-02-28": 625,
       "2024-02-27": 746,
       "2024-02-26": 738,
-      "2024-02-25": 366
+      "2024-02-25": 345
     }
   },
   {
@@ -88,11 +88,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "43.58%",
-    "uptimeWeek": "61.85%",
-    "uptimeMonth": "91.22%",
+    "uptimeDay": "45.39%",
+    "uptimeWeek": "62.15%",
+    "uptimeMonth": "91.29%",
     "uptimeYear": "99.27%",
     "time": 422,
     "timeDay": 403,
@@ -100,13 +100,13 @@
     "timeMonth": 412,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2024-03-02": 72,
+      "2024-03-02": 74,
       "2024-03-01": 812,
       "2024-02-29": 569,
       "2024-02-28": 602,
       "2024-02-27": 770,
       "2024-02-26": 677,
-      "2024-02-25": 345
+      "2024-02-25": 312
     }
   },
   {
@@ -148,12 +148,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1117,
     "timeDay": 799,
     "timeWeek": 850,
     "timeMonth": 1113,
-    "timeYear": 1017,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2024-02-05": 178,
       "2024-02-04": 819,
@@ -183,7 +183,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-02": 132,
+      "2024-03-02": 160,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
