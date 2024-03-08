@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.70%",
+    "uptimeYear": "97.71%",
     "time": 627,
     "timeDay": 653,
     "timeWeek": 659,
@@ -25,8 +25,7 @@
       "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
-      "2023-03-10": 1440,
-      "2023-03-09": 1440
+      "2023-03-10": 1440
     }
   },
   {
@@ -34,25 +33,26 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "61.63%",
-    "uptimeWeek": "59.88%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "66.65%",
+    "uptimeWeek": "60.40%",
+    "uptimeMonth": "90.89%",
+    "uptimeYear": "99.24%",
     "time": 682,
     "timeDay": 689,
     "timeWeek": 690,
     "timeMonth": 667,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2024-03-08": 0,
       "2024-03-07": 548,
       "2024-03-06": 513,
       "2024-03-05": 483,
       "2024-03-04": 834,
       "2024-03-03": 654,
       "2024-03-02": 615,
-      "2024-03-01": 400
+      "2024-03-01": 347
     }
   },
   {
@@ -84,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
     "status": "down",
-    "uptime": "99.67%",
+    "uptime": "99.66%",
     "uptimeDay": "57.57%",
-    "uptimeWeek": "59.00%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "99.21%",
+    "uptimeWeek": "58.27%",
+    "uptimeMonth": "90.40%",
+    "uptimeYear": "99.20%",
     "time": 421,
     "timeDay": 410,
-    "timeWeek": 422,
+    "timeWeek": 423,
     "timeMonth": 416,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2024-03-07": 610,
+      "2024-03-08": 71,
+      "2024-03-07": 612,
       "2024-03-06": 680,
       "2024-03-05": 612,
       "2024-03-04": 982,
@@ -177,7 +178,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 1439,
+      "2024-03-08": 72,
+      "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
@@ -540,8 +542,7 @@
       "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
-      "2023-03-10": 1440,
-      "2023-03-09": 1440
+      "2023-03-10": 1440
     }
   },
   {
