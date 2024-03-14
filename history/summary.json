@@ -27,12 +27,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "52.73%",
-    "uptimeWeek": "60.50%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "52.72%",
+    "uptimeWeek": "61.42%",
+    "uptimeMonth": "91.12%",
+    "uptimeYear": "99.26%",
     "time": 683,
     "timeDay": 690,
     "timeWeek": 689,
@@ -45,7 +45,7 @@
       "2024-03-11": 508,
       "2024-03-10": 741,
       "2024-03-09": 611,
-      "2024-03-08": 349
+      "2024-03-08": 255
     }
   },
   {
@@ -78,23 +78,23 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "57.74%",
-    "uptimeWeek": "64.17%",
-    "uptimeMonth": "91.75%",
+    "uptimeDay": "59.45%",
+    "uptimeWeek": "64.06%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 421,
-    "timeDay": 405,
+    "timeDay": 403,
     "timeWeek": 415,
     "timeMonth": 417,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2024-03-14": 475,
+      "2024-03-14": 464,
       "2024-03-13": 663,
       "2024-03-12": 678,
       "2024-03-11": 508,
       "2024-03-10": 503,
       "2024-03-09": 650,
-      "2024-03-08": 138
+      "2024-03-08": 159
     }
   },
   {
@@ -170,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 1079,
+      "2024-03-14": 1103,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
