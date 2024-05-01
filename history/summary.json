@@ -27,19 +27,19 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "52.77%",
-    "uptimeWeek": "64.93%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "51.95%",
+    "uptimeWeek": "64.59%",
+    "uptimeMonth": "91.85%",
+    "uptimeYear": "99.32%",
     "time": 680,
     "timeDay": 608,
     "timeWeek": 661,
     "timeMonth": 667,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-05-01": 395,
+      "2024-05-01": 429,
       "2024-04-30": 575,
       "2024-04-29": 544,
       "2024-04-28": 464,
@@ -78,9 +78,9 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "56.46%",
-    "uptimeWeek": "62.00%",
-    "uptimeMonth": "91.26%",
+    "uptimeDay": "57.21%",
+    "uptimeWeek": "61.70%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "99.27%",
     "time": 416,
     "timeDay": 428,
@@ -88,13 +88,13 @@
     "timeMonth": 406,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-05-01": 404,
+      "2024-05-01": 393,
       "2024-04-30": 539,
       "2024-04-29": 712,
       "2024-04-28": 521,
       "2024-04-27": 809,
       "2024-04-26": 460,
-      "2024-04-25": 387
+      "2024-04-25": 428
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-01": 897,
+      "2024-05-01": 929,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -544,19 +544,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 149,
-    "timeWeek": 133,
-    "timeMonth": 120,
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 109,
+    "timeDay": 156,
+    "timeWeek": 137,
+    "timeMonth": 121,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-05-01": 14
+      "2024-05-01": 45
     }
   }
 ]
