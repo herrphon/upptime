@@ -27,25 +27,26 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "56.10%",
-    "uptimeWeek": "63.78%",
-    "uptimeMonth": "91.67%",
+    "uptimeDay": "57.00%",
+    "uptimeWeek": "64.15%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.31%",
     "time": 680,
-    "timeDay": 701,
+    "timeDay": 708,
     "timeWeek": 661,
-    "timeMonth": 670,
+    "timeMonth": 671,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2024-05-04": 0,
       "2024-05-03": 621,
       "2024-05-02": 698,
       "2024-05-01": 660,
       "2024-04-30": 575,
       "2024-04-29": 544,
       "2024-04-28": 464,
-      "2024-04-27": 95
+      "2024-04-27": 58
     }
   },
   {
@@ -76,25 +77,26 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "64.17%",
-    "uptimeWeek": "56.38%",
-    "uptimeMonth": "89.96%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "69.23%",
+    "uptimeWeek": "56.88%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "99.17%",
     "time": 416,
     "timeDay": 425,
     "timeWeek": 410,
     "timeMonth": 407,
     "timeYear": 416,
     "dailyMinutesDown": {
+      "2024-05-04": 1,
       "2024-05-03": 515,
       "2024-05-02": 936,
       "2024-05-01": 693,
       "2024-04-30": 539,
       "2024-04-29": 712,
       "2024-04-28": 521,
-      "2024-04-27": 479
+      "2024-04-27": 427
     }
   },
   {
@@ -172,7 +174,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-03": 1428,
+      "2024-05-04": 74,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -535,8 +538,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   },
   {
