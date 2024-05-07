@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 656,
-    "timeDay": 781,
-    "timeWeek": 694,
-    "timeMonth": 660,
-    "timeYear": 685,
+    "timeDay": 947,
+    "timeWeek": 716,
+    "timeMonth": 653,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2024-01-03": 783,
       "2024-01-02": 30,
@@ -27,12 +27,12 @@
     "url": "$AUTH_BRIDGE_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "48.45%",
-    "uptimeWeek": "58.03%",
-    "uptimeMonth": "90.34%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "48.44%",
+    "uptimeWeek": "58.69%",
+    "uptimeMonth": "90.49%",
+    "uptimeYear": "99.21%",
     "time": 680,
     "timeDay": 695,
     "timeWeek": 681,
@@ -45,7 +45,7 @@
       "2024-05-04": 698,
       "2024-05-03": 621,
       "2024-05-02": 698,
-      "2024-05-01": 375
+      "2024-05-01": 308
     }
   },
   {
@@ -62,7 +62,7 @@
     "time": 423,
     "timeDay": 564,
     "timeWeek": 421,
-    "timeMonth": 392,
+    "timeMonth": 388,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2024-01-03": 730,
@@ -76,25 +76,25 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "51.06%",
-    "uptimeWeek": "58.22%",
-    "uptimeMonth": "90.39%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "50.96%",
+    "uptimeWeek": "58.62%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "99.21%",
     "time": 415,
     "timeDay": 410,
     "timeWeek": 417,
     "timeMonth": 408,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-05-07": 708,
+      "2024-05-07": 709,
       "2024-05-06": 372,
       "2024-05-05": 618,
       "2024-05-04": 566,
       "2024-05-03": 515,
       "2024-05-02": 936,
-      "2024-05-01": 497
+      "2024-05-01": 456
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-07": 1397,
+      "2024-05-07": 1403,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
