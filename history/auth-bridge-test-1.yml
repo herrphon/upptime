@@ -1,7 +1,7 @@
 url: $AUTH_BRIDGE_TEST_1
-status: up
-code: 200
-responseTime: 645
-lastUpdated: 2024-05-16T10:42:24.323Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-05-16T10:53:23.330Z
 startTime: 2021-10-19T21:17:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
