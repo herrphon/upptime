@@ -33,7 +33,7 @@
     "uptimeMonth": "91.24%",
     "uptimeYear": "99.27%",
     "time": 678,
-    "timeDay": 676,
+    "timeDay": 681,
     "timeWeek": 662,
     "timeMonth": 669,
     "timeYear": 678,
@@ -76,12 +76,12 @@
     "slug": "software-center-test-1",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "59.63%",
+    "uptimeDay": "59.97%",
     "uptimeWeek": "59.02%",
     "uptimeMonth": "90.57%",
     "uptimeYear": "99.21%",
     "time": 414,
-    "timeDay": 419,
+    "timeDay": 421,
     "timeWeek": 407,
     "timeMonth": 409,
     "timeYear": 414,
@@ -172,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-21": 1435,
+      "2024-05-22": 85,
+      "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
@@ -535,8 +536,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 1440,
-      "2023-05-23": 1440
+      "2023-05-24": 1440
     }
   },
   {
