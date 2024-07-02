@@ -8,7 +8,7 @@
     "uptime": "96.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.21%",
+    "uptimeMonth": "36.19%",
     "uptimeYear": "94.53%",
     "time": 677,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 630,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-07-02": 1183,
+      "2024-07-02": 1194,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -49,7 +49,7 @@
     "uptime": "97.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.22%",
+    "uptimeMonth": "18.19%",
     "uptimeYear": "93.18%",
     "time": 677,
     "timeDay": 0,
@@ -57,7 +57,7 @@
     "timeMonth": 650,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-07-02": 1183,
+      "2024-07-02": 1194,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -115,11 +115,11 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "52.90%",
-    "uptimeWeek": "63.27%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "53.41%",
+    "uptimeWeek": "63.44%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "99.30%",
     "time": 415,
     "timeDay": 420,
@@ -127,12 +127,12 @@
     "timeMonth": 419,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-07-02": 572,
+      "2024-07-02": 574,
       "2024-07-01": 722,
       "2024-06-30": 589,
       "2024-06-29": 671,
       "2024-06-28": 722,
-      "2024-06-27": 427
+      "2024-06-27": 408
     }
   },
   {
@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-02": 1185,
+      "2024-07-02": 1197,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
