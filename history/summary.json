@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-08-28": 581,
+      "2024-08-28": 592,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2024-08-28": 581,
+      "2024-08-28": 592,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -229,26 +229,25 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "60.74%",
-    "uptimeWeek": "58.99%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "60.79%",
+    "uptimeWeek": "59.16%",
+    "uptimeMonth": "90.60%",
+    "uptimeYear": "99.22%",
     "time": 416,
     "timeDay": 427,
     "timeWeek": 428,
     "timeMonth": 431,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-08-28": 207,
+      "2024-08-28": 208,
       "2024-08-27": 556,
       "2024-08-26": 688,
       "2024-08-25": 629,
       "2024-08-24": 654,
       "2024-08-23": 694,
-      "2024-08-22": 691,
-      "2024-08-21": 18
+      "2024-08-22": 691
     }
   },
   {
@@ -327,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-28": 583,
+      "2024-08-28": 594,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
