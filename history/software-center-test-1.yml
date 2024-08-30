@@ -1,7 +1,7 @@
 url: $SOFTWARECENTER_TEST_1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-30T03:59:29.035Z
+status: up
+code: 200
+responseTime: 331
+lastUpdated: 2024-08-30T04:26:55.926Z
 startTime: 2021-10-19T21:17:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
