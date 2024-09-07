@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.14%",
+    "uptimeYear": "76.13%",
     "time": 683,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-09-07": 1374,
+      "2024-09-07": 1393,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -124,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2024-09-07": 1374,
+      "2024-09-07": 1393,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -238,7 +238,7 @@
     "timeDay": 475,
     "timeWeek": 459,
     "timeMonth": 423,
-    "timeYear": 416,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2024-01-03": 730,
       "2024-01-02": 29
@@ -249,25 +249,25 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "59.64%",
-    "uptimeWeek": "56.34%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "60.91%",
+    "uptimeWeek": "56.87%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "99.17%",
     "time": 417,
     "timeDay": 473,
     "timeWeek": 450,
     "timeMonth": 436,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-09-07": 549,
+      "2024-09-07": 550,
       "2024-09-06": 618,
       "2024-09-05": 633,
       "2024-09-04": 872,
       "2024-09-03": 698,
       "2024-09-02": 706,
-      "2024-09-01": 322
+      "2024-09-01": 268
     }
   },
   {
@@ -314,7 +314,7 @@
     "timeDay": 1059,
     "timeWeek": 995,
     "timeMonth": 1038,
-    "timeYear": 955,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2024-07-11": 217,
       "2024-06-06": 20,
@@ -346,7 +346,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 1375,
+      "2024-09-07": 1395,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
