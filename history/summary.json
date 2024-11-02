@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2024-11-02": 1271,
+      "2024-11-02": 1287,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
@@ -180,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2024-11-02": 1271,
+      "2024-11-02": 1287,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
@@ -361,26 +361,26 @@
     "url": "$SOFTWARECENTER_TEST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "65.40%",
-    "uptimeWeek": "57.76%",
-    "uptimeMonth": "90.01%",
+    "uptimeDay": "66.08%",
+    "uptimeWeek": "57.75%",
+    "uptimeMonth": "90.10%",
     "uptimeYear": "99.17%",
     "time": 417,
-    "timeDay": 447,
+    "timeDay": 450,
     "timeWeek": 435,
     "timeMonth": 423,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-11-02": 466,
+      "2024-11-02": 467,
       "2024-11-01": 735,
       "2024-10-31": 730,
       "2024-10-30": 606,
       "2024-10-29": 453,
       "2024-10-28": 656,
       "2024-10-27": 588,
-      "2024-10-26": 142
+      "2024-10-26": 103
     }
   },
   {
@@ -458,7 +458,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-02": 1273,
+      "2024-11-02": 1288,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
