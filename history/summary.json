@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge",
     "status": "down",
-    "uptime": "61.13%",
+    "uptime": "61.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-23": 143,
+      "2026-01-24": 138,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -379,8 +380,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
     "status": "down",
-    "uptime": "61.82%",
+    "uptime": "61.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-23": 143,
+      "2026-01-24": 138,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -763,8 +764,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 442,
-    "timeDay": 580,
-    "timeWeek": 517,
-    "timeMonth": 461,
+    "timeDay": 426,
+    "timeWeek": 504,
+    "timeMonth": 462,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2025-08-06": 121
@@ -797,11 +797,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.86%",
+    "uptimeYear": "88.13%",
     "time": 441,
-    "timeDay": 557,
-    "timeWeek": 489,
-    "timeMonth": 445,
+    "timeDay": 379,
+    "timeWeek": 470,
+    "timeMonth": 442,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2025-08-06": 121,
@@ -851,8 +851,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -863,13 +862,13 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.85%",
-    "time": 715,
-    "timeDay": 774,
-    "timeWeek": 738,
-    "timeMonth": 709,
+    "time": 716,
+    "timeDay": 683,
+    "timeWeek": 721,
+    "timeMonth": 707,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2026-01-16": 101,
@@ -892,14 +891,14 @@
     "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "93.29%",
     "uptimeYear": "99.29%",
     "time": 1188,
-    "timeDay": 1083,
-    "timeWeek": 990,
-    "timeMonth": 928,
-    "timeYear": 1261,
+    "timeDay": 839,
+    "timeWeek": 963,
+    "timeMonth": 929,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2026-01-17": 85,
       "2026-01-12": 144,
@@ -932,7 +931,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-23": 143,
+      "2026-01-24": 138,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -1295,8 +1295,7 @@
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -1310,11 +1309,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 120,
-    "timeDay": 84,
-    "timeWeek": 100,
-    "timeMonth": 113,
-    "timeYear": 126,
+    "time": 121,
+    "timeDay": 299,
+    "timeWeek": 130,
+    "timeMonth": 120,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2026-01-04": 24,
       "2025-12-15": 24,
