@@ -1,7 +1,7 @@
 url: $WETRACK
-status: down
-code: 503
-responseTime: 1769
-lastUpdated: 2026-04-20T11:44:35.711Z
+status: up
+code: 200
+responseTime: 959
+lastUpdated: 2026-04-20T14:47:25.833Z
 startTime: 2021-10-08T19:07:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
