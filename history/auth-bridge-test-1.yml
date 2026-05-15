@@ -1,7 +1,7 @@
 url: $AUTH_BRIDGE_TEST_1
 status: down
 code: 503
-responseTime: 416
-lastUpdated: 2026-05-14T23:58:52.708Z
+responseTime: 345
+lastUpdated: 2026-05-15T23:55:48.401Z
 startTime: 2021-10-19T21:17:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
