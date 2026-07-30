@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge",
     "status": "down",
-    "uptime": "54.57%",
+    "uptime": "54.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-07-29": 203,
+      "2026-07-30": 176,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -379,8 +380,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
     "status": "down",
-    "uptime": "55.19%",
+    "uptime": "55.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -397,10 +397,11 @@
     "time": 413,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 394,
+    "timeMonth": 391,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-07-29": 203,
+      "2026-07-30": 176,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -763,8 +764,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.65%",
     "time": 453,
-    "timeDay": 391,
-    "timeWeek": 399,
-    "timeMonth": 399,
+    "timeDay": 416,
+    "timeWeek": 414,
+    "timeMonth": 397,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-08-06": 121,
@@ -815,11 +815,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
     "status": "down",
-    "uptime": "84.60%",
+    "uptime": "84.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.08%",
+    "uptimeYear": "54.81%",
     "time": 443,
     "timeDay": 0,
     "timeWeek": 0,
@@ -829,7 +829,8 @@
       "2025-08-06": 121,
       "2026-01-28": 30,
       "2026-01-29": 49,
-      "2026-07-29": 203,
+      "2026-07-30": 176,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1008,9 +1009,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.29%",
     "time": 796,
-    "timeDay": 716,
-    "timeWeek": 1221,
-    "timeMonth": 951,
+    "timeDay": 620,
+    "timeWeek": 1076,
+    "timeMonth": 956,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2025-08-01": 90,
@@ -1060,16 +1061,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "weshare",
     "status": "up",
-    "uptime": "91.56%",
+    "uptime": "91.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.64%",
+    "uptimeMonth": "67.86%",
     "uptimeYear": "60.45%",
-    "time": 1124,
-    "timeDay": 2048,
-    "timeWeek": 2221,
-    "timeMonth": 1591,
-    "timeYear": 871,
+    "time": 1125,
+    "timeDay": 1281,
+    "timeWeek": 2283,
+    "timeMonth": 1581,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-08-06": 120,
       "2025-09-15": 203,
@@ -1247,7 +1248,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 203,
+      "2026-07-30": 176,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1610,8 +1612,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -1626,9 +1627,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 119,
-    "timeDay": 122,
-    "timeWeek": 85,
-    "timeMonth": 87,
+    "timeDay": 71,
+    "timeWeek": 86,
+    "timeMonth": 86,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-12-13": 119,
