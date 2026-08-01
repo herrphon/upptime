@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge",
     "status": "down",
-    "uptime": "54.51%",
+    "uptime": "54.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-07-31": 219,
+      "2026-08-01": 218,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -379,8 +380,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
     "status": "down",
-    "uptime": "55.12%",
+    "uptime": "55.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -397,10 +397,11 @@
     "time": 413,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 391,
+    "timeMonth": 396,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-07-31": 219,
+      "2026-08-01": 218,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -763,8 +764,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.65%",
     "time": 453,
-    "timeDay": 467,
-    "timeWeek": 428,
-    "timeMonth": 400,
+    "timeDay": 427,
+    "timeWeek": 406,
+    "timeMonth": 401,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-08-06": 121,
@@ -815,11 +815,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
     "status": "down",
-    "uptime": "84.51%",
+    "uptime": "84.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.53%",
+    "uptimeYear": "54.26%",
     "time": 443,
     "timeDay": 0,
     "timeWeek": 0,
@@ -829,7 +829,8 @@
       "2025-08-06": 121,
       "2026-01-28": 30,
       "2026-01-29": 49,
-      "2026-07-31": 219,
+      "2026-08-01": 218,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -1010,12 +1011,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.29%",
     "time": 796,
-    "timeDay": 558,
-    "timeWeek": 1047,
-    "timeMonth": 943,
-    "timeYear": 859,
+    "timeDay": 957,
+    "timeWeek": 1067,
+    "timeMonth": 948,
+    "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-08-01": 90,
       "2025-08-06": 120,
       "2025-09-06": 133,
       "2025-10-07": 40,
@@ -1065,13 +1065,13 @@
     "uptime": "91.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.96%",
+    "uptimeMonth": "71.25%",
     "uptimeYear": "60.45%",
-    "time": 1126,
-    "timeDay": 1258,
-    "timeWeek": 2320,
-    "timeMonth": 1570,
-    "timeYear": 873,
+    "time": 1127,
+    "timeDay": 1114,
+    "timeWeek": 1846,
+    "timeMonth": 1556,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2025-08-06": 120,
       "2025-09-15": 203,
@@ -1249,7 +1249,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 219,
+      "2026-08-01": 218,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -1612,8 +1613,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -1628,9 +1628,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 119,
-    "timeDay": 77,
-    "timeWeek": 90,
-    "timeMonth": 86,
+    "timeDay": 140,
+    "timeWeek": 98,
+    "timeMonth": 88,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-12-13": 119,
