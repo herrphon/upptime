@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge",
     "status": "down",
-    "uptime": "54.26%",
+    "uptime": "54.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-08-08": 126,
+      "2026-08-09": 138,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -379,8 +380,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-bridge-test-1",
     "status": "down",
-    "uptime": "54.87%",
+    "uptime": "54.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -397,10 +397,11 @@
     "time": 413,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 420,
+    "timeMonth": 414,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-08-08": 126,
+      "2026-08-09": 138,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -763,8 +764,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.68%",
     "time": 452,
-    "timeDay": 494,
-    "timeWeek": 444,
-    "timeMonth": 422,
+    "timeDay": 410,
+    "timeWeek": 434,
+    "timeMonth": 419,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2026-03-06": 159,
@@ -814,12 +814,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "software-center-test-1",
     "status": "down",
-    "uptime": "84.12%",
+    "uptime": "84.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.38%",
-    "time": 443,
+    "uptimeYear": "52.10%",
+    "time": 442,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -827,7 +827,8 @@
     "dailyMinutesDown": {
       "2026-01-28": 30,
       "2026-01-29": 49,
-      "2026-08-08": 126,
+      "2026-08-09": 138,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1015,10 +1016,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.33%",
-    "time": 821,
-    "timeDay": 832,
-    "timeWeek": 899,
-    "timeMonth": 952,
+    "time": 820,
+    "timeDay": 538,
+    "timeWeek": 864,
+    "timeMonth": 938,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2025-09-06": 133,
@@ -1069,13 +1070,13 @@
     "uptime": "91.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.05%",
+    "uptimeMonth": "96.67%",
     "uptimeYear": "60.47%",
-    "time": 1137,
-    "timeDay": 1194,
-    "timeWeek": 1519,
-    "timeMonth": 1549,
-    "timeYear": 888,
+    "time": 1138,
+    "timeDay": 1274,
+    "timeWeek": 1492,
+    "timeMonth": 1566,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2025-09-15": 203,
       "2025-10-16": 57,
@@ -1252,7 +1253,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 127,
+      "2026-08-09": 138,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1615,8 +1617,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -1631,9 +1632,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 119,
-    "timeDay": 67,
-    "timeWeek": 81,
-    "timeMonth": 86,
+    "timeDay": 81,
+    "timeWeek": 82,
+    "timeMonth": 87,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-12-13": 119,
